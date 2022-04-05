@@ -6,10 +6,11 @@ In this repo I record all I know about the FOSS projects I list.
 3. Make the barrier for newcomers to those FOSS project lower.
 4. It's fun.
 ## TODO 
-### Compilers
+### Language/Compilers
 - [ ] [janet-lang/janet](https://github.com/janet-lang/janet)
 - [ ] [gambit/gambit](https://github.com/gambit/gambit.git)
 - [ ] [zig/zig](https://github.com/ziglang/zig.git)
+- [ ] [openresty/luajit2](https://github.com/openresty/luajit2)
 ### GC
 - [ ] [ivmai/bdwgc](https://github.com/ivmai/bdwgc.git)
 ### Shell
