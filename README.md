@@ -15,3 +15,5 @@ In this repo I record all I know about the FOSS projects I list.
 ### Shell
 - [ ] [emersion/mrsh](https://github.com/emersion/mrsh.git)
 - [ ] [oilshell/oil](https://github.com/oilshell/oil.git)
+### VM
+- [ ] [FastVM/minivm](https://github.com/FastVM/minivm.git)
